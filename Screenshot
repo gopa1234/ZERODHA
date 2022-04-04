@@ -1,0 +1,4 @@
+how to take screenshot 
+(takesScreenshot)driver.getscreenshotAs(output.file)
+file ff=new File(path of local folder)
+fileHandler.copy(src,des)
